@@ -1,0 +1,39 @@
+h1{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgba(192, 30, 57, 0.603);
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: 400;
+    color: white;
+}
+
+.origamiFull{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
+
+.origami {
+    
+    border-radius: 20px;
+    background-color:#12eeee;
+    
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origamiFull img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origamiFull ol {
+    border: 5px solid black;
+    border-radius: 7px;
+}
+
+html{
+    background-color:rgb(111, 46, 185)
+}
